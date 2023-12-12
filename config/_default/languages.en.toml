@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "june.cx"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = ":date_medium"
+
+  mainSections = ["posts", "aboutme.md"]
+  description = "June's awesome website"
+
+[author]
+  name = "June"
+  image = "img/author.png"
+  headline = "The Silliest Of All Time"
+  bio = "she/her"
+  links = [
+  { email = "mailto:hello@june0925@proton.me" },
+  { discord = "https://discordapp.com/users/1115487006068310108" },
+  { flickr = "https://www.flickr.com/photos/juniebear3/" },
+  { github = "https://github.com/june1011" },
+  { steam = "https://steamcommunity.com/profiles/76561199076864973/" },
+  ]
