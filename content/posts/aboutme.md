@@ -18,7 +18,7 @@ music, and seals (my favorite animal :seal:)!
 Here are some communities I've helped out in:
 
 - Staff for [Couleur Tweak Tips](https://ctt.cx/) -
-    A free & open source repository of very useful knowledge regarding video, Minecraft & windows tweaking.
+    A free & open source repository of very useful knowledge regarding video, Minecraft & Windows tweaking.
 
 - Staff for [CheatBreaker](https://cheatbreaker.net/) -
     A free FPS boosting modpack for Minecraft 1.7 & 1.8.
